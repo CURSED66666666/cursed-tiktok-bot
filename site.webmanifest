@@ -1,0 +1,12 @@
+{
+  "name": "Cursed Video Bot",
+  "short_name": "Cursed Video Bot",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#101010",
+  "theme_color": "#101010",
+  "icons": [
+    {"src": "assets/icon-1024.png", "sizes": "1024x1024", "type": "image/png"},
+    {"src": "assets/apple-touch-icon.png", "sizes": "180x180", "type": "image/png"}
+  ]
+}
